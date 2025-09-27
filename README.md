@@ -1,5 +1,3 @@
-# GRADIO-APPLICATION
-
 ---
 title: Desmond’s Gradio Space
 emoji: ⚡
@@ -10,6 +8,8 @@ sdk_version: "4.42.0"
 app_file: app.py
 pinned: false
 ---
+
+# GRADIO-APPLICATION
 
 # 🚀 Desmond’s Gradio App
 
@@ -28,5 +28,3 @@ This is a simple Gradio application deployed on **Hugging Face Spaces**.
 
 ## 🎯 Live Demo
 👉 Visit the app here: [Hugging Face Space](https://huggingface.co/spaces/DESMOND135/GRADIO)
-
----
