@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://DESMOND135:$HF_TOKEN@huggingface.co/spaces/DESMOND135/DESMOND135/GRADIO main
+        run: git push https://DESMOND135:$HF_TOKEN@huggingface.co/spaces/DESMOND135/GRADIO main
